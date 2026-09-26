@@ -1,9 +1,9 @@
 # OSWE — OffSec Experienced Web Application Attack (WEB-300)
 
-OSWE (Abad Network Institute)
+OSWE
 Advanced Web Application Security, White-Box Source Code Review & Custom Exploitation — Practical Expert Requirements
 
-# Abad Network Institute: Master Advanced White-Box Web Hacking and Get Certified to OSWE
+# Master Advanced White-Box Web Hacking and Get Certified to OSWE
 
 ## Description
 
